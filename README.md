@@ -1,0 +1,2 @@
+# tyau-coin
+Funny coin
